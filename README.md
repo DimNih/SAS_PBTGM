@@ -2,7 +2,7 @@
 Ujian SAS
 
 ## Flowchart
-![Hasil Flowchart](GAMBAR/Flowchart.png)
+![Hasil Flowchart](GAMBAR/FlowChart.png)
 
 ## Pengujian
 ![Screenshot Pengujian](GAMBAR/hasil.png)
